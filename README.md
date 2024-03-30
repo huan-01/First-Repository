@@ -1,2 +1,2 @@
 # First-Repository
-第一个程序
+史欢欢的第一个程序——hello world！
